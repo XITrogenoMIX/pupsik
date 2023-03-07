@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ul{
+  background-color: #0080c0;
+  list-style:none ;
+}
+li{
+  color: #ff8000;
+  font-size: 28px;
+  display: inline-block;
+  margin: 30px;
+}
+h1{
+  text-align-last: center;
+}
